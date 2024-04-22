@@ -1,0 +1,14 @@
+C:\lucasFoguete\collegeTask_LP_Ap1\bin\Debug\net8.0\collegeTask_LP_Ap1.exe
+C:\lucasFoguete\collegeTask_LP_Ap1\bin\Debug\net8.0\collegeTask_LP_Ap1.deps.json
+C:\lucasFoguete\collegeTask_LP_Ap1\bin\Debug\net8.0\collegeTask_LP_Ap1.runtimeconfig.json
+C:\lucasFoguete\collegeTask_LP_Ap1\bin\Debug\net8.0\collegeTask_LP_Ap1.dll
+C:\lucasFoguete\collegeTask_LP_Ap1\bin\Debug\net8.0\collegeTask_LP_Ap1.pdb
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.AssemblyInfoInputs.cache
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.AssemblyInfo.cs
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.csproj.CoreCompileInputs.cache
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.dll
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\refint\collegeTask_LP_Ap1.dll
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.pdb
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\collegeTask_LP_Ap1.genruntimeconfig.cache
+C:\lucasFoguete\collegeTask_LP_Ap1\obj\Debug\net8.0\ref\collegeTask_LP_Ap1.dll
